@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @Tabia-Ali
-- 👀 I’m interested in technogies
-- 🌱 I’m currently learning BS computer science
-- 💞️ I’m looking to collaborate on github
-- 📫 reach me by my email address " alitabia383@gmail.com"
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am, really good in sports if the second person dont know about the game....hehehe
+# Hi, I'm Tabia 👋
+alitabia383@gmail.com
 
-<!---
-Tabia-Ali/Tabia-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final-Year Computer Science Student  
+🌐 Aspiring Network Engineer  
+📡 Interested in LAN Design, Routing & Switching  
+🛠 Tools: Cisco Packet Tracer, Basic Linux  
+
+## What I'm Working On
+- Improving practical networking skills
+- Building network simulation projects
+- Preparing for entry-level networking roles
+
+## Networking Skills
+- IP Addressing & Subnetting
+- LAN Configuration
+- Basic Routing
+- Network Troubleshooting
+- TCP/IP Fundamentals
+
+📫 Open to internships and entry-level opportunities.
